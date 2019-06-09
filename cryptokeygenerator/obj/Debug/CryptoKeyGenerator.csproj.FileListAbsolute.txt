@@ -1,5 +1,0 @@
-C:\Sandbox\Consoles\CryptoKeyGenerator\CryptoKeyGenerator\bin\Debug\CryptoKeyGenerator.exe.config
-C:\Sandbox\Consoles\CryptoKeyGenerator\CryptoKeyGenerator\bin\Debug\CryptoKeyGenerator.exe
-C:\Sandbox\Consoles\CryptoKeyGenerator\CryptoKeyGenerator\bin\Debug\CryptoKeyGenerator.pdb
-C:\Sandbox\Consoles\CryptoKeyGenerator\CryptoKeyGenerator\obj\Debug\CryptoKeyGenerator.exe
-C:\Sandbox\Consoles\CryptoKeyGenerator\CryptoKeyGenerator\obj\Debug\CryptoKeyGenerator.pdb
